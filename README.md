@@ -14,4 +14,4 @@ Criei um logo simples para estar presente tanto no menu como no rodapé.
 
 E como já tive um breve contato com CSS, fui além do proposto e adicionei um pouco mais de estilização à página, especialmente a página de Contato.
 
-Trata-se de um projeto em andamento, que pretendo melhorá-lo durante meus estudos.
+Trata-se de um projeto em andamento, que pretendo melhorá-lo durante meus estudos. O projeto foi desenvolvido em um laptop com resolução de 1680x1050 e ainda não há configurações de responsividade para outras telas.
